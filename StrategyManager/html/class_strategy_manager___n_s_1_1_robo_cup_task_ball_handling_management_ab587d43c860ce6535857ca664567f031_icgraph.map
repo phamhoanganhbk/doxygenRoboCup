@@ -1,0 +1,16 @@
+<map id="StrategyManager_NS.RoboCupTaskBallHandlingManagement.SetRobotBallHandlingState" name="StrategyManager_NS.RoboCupTaskBallHandlingManagement.SetRobotBallHandlingState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="567,147,787,205"/>
+<area shape="rect" id="Node000002" href="$class_strategy_manager___n_s_1_1_robo_cup_task_ball_handling_management.html#a3f5323476e002cff9f52f1eef61b6687" title=" " alt="" coords="270,5,511,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="631,139,579,99,518,62,490,51,492,46,520,58,582,94,634,135"/>
+<area shape="rect" id="Node000003" href="$class_strategy_manager___n_s_1_1_robo_cup_task_ball_handling_management.html#a05344cc20349d6da4754227de71329da" title=" " alt="" coords="268,72,513,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="552,146,505,134,506,129,553,141"/>
+<area shape="rect" id="Node000004" href="$class_strategy_manager___n_s_1_1_robo_cup_task_ball_handling_management.html#ae6a7ba6ad03793747377723af8886ba0" title=" " alt="" coords="275,155,506,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="552,179,506,179,506,173,552,173"/>
+<area shape="rect" id="Node000006" href="$class_strategy_manager___n_s_1_1_robo_cup_task_ball_handling_management.html#a2cf289ab32bb6fa99d0ec59f3104aa23" title=" " alt="" coords="273,221,508,264"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="553,208,486,223,485,218,552,202"/>
+<area shape="rect" id="Node000007" href="$class_strategy_manager___n_s_1_1_robo_cup_task_ball_handling_management.html#a62faaa97665b3ec6b3c18f82b8fbae4f" title=" " alt="" coords="262,288,519,347"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="625,216,575,248,520,278,493,290,491,285,518,274,573,244,622,212"/>
+<area shape="rect" id="Node000005" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#ae82578fdd75b051fccf4e24915ce9bab" title=" " alt="" coords="5,188,214,231"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="261,194,214,200,214,194,260,189"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="258,230,214,224,215,219,259,224"/>
+</map>

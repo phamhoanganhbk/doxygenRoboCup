@@ -1,0 +1,26 @@
+<map id="StrategyManager_NS.StrategyRoboCup.InitStrategy" name="StrategyManager_NS.StrategyRoboCup.InitStrategy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,285,204,328"/>
+<area shape="rect" id="Node000002" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#a9a3191bdf89ee1defd84108862e3b232" title=" " alt="" coords="252,15,537,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,284,129,239,158,181,198,122,223,95,250,71,265,62,267,66,253,75,226,99,202,125,162,184,134,241,116,286"/>
+<area shape="rect" id="Node000004" href="$class_strategy_manager___n_s_1_1_toolbox_strategy_robo_cup.html#afbeb097b8a8de5a0ee1aa4415e0644e9" title=" " alt="" coords="272,85,517,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="116,283,138,251,168,211,206,171,250,138,260,132,263,137,253,142,210,175,172,215,142,254,121,286"/>
+<area shape="rect" id="Node000006" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#a8217eb270bb0c9b37a387d4d6d2e5e87" title=" " alt="" coords="268,152,521,195"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="130,283,183,242,251,204,268,197,270,202,253,209,186,247,133,287"/>
+<area shape="rect" id="Node000007" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#a2e404da9136782b318d037735161b979" title=" " alt="" coords="268,219,521,261"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="200,282,284,263,285,268,201,287"/>
+<area shape="rect" id="Node000008" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#a23e3645dc9fcbe28f6ff495f09d1051b" title=" " alt="" coords="268,285,521,328"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="204,304,253,304,253,309,204,309"/>
+<area shape="rect" id="Node000009" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#a5793def5c86bf4b775175305f59d0a8f" title=" " alt="" coords="268,352,521,395"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="201,326,285,345,284,351,200,331"/>
+<area shape="rect" id="Node000010" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#ac7a50129522b6eab7d2b538a31fbc149" title=" " alt="" coords="275,419,514,461"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="133,327,186,366,253,404,270,411,268,416,251,409,183,371,130,331"/>
+<area shape="rect" id="Node000011" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#ac35579428ac9b8a16b07b2a76f375915" title=" " alt="" coords="272,485,517,544"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="121,327,173,398,211,438,253,471,261,476,259,481,250,476,207,441,169,402,117,330"/>
+<area shape="rect" id="Node000012" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#a65d72c0d2b57b79819868d355dcaa6a4" title=" " alt="" coords="611,527,809,569"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="113,328,128,378,156,441,174,474,196,505,223,532,253,554,298,574,346,588,395,595,445,596,542,588,624,571,625,576,542,593,445,602,395,600,345,593,296,579,250,558,219,536,192,508,170,477,151,444,123,379,108,329"/>
+<area shape="rect" id="Node000003" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#a32f776e6702ec4bcf2d0bb9a89004b6a" title=" " alt="" coords="591,5,828,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="537,33,576,33,576,38,537,38"/>
+<area shape="rect" id="Node000005" href="$class_strategy_manager___n_s_1_1_team_positioning.html#acacc64f2fc1fca2b8eeffd7fbb75a0c7" title="Ajout d&#39;une position de référence pour le joueur playerId Cette position est valable lorsque le jeu s..." alt="" coords="585,88,834,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="517,105,570,105,570,111,517,110"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="517,525,596,533,596,539,517,530"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="StrategyManager_NS.RoboCupTaskBallHandlingManagement" name="StrategyManager_NS.RoboCupTaskBallHandlingManagement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1292,72,1495,115"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="80,5,176,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,13,508,5,718,7,930,17,1123,41,1292,70,1291,75,1123,46,930,23,717,12,508,10,191,18"/>
+<area shape="rect" id="Node000009" href="$class_strategy_manager___n_s_1_1_robo_cup_task_ball_handling_management.html" title=" " alt="" coords="472,39,675,81"/>
+<area shape="poly" id="edge11_Node000009_Node000002" title=" " alt="" coords="191,22,472,48,472,53,191,27"/>
+<area shape="rect" id="Node000003" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html" title=" " alt="" coords="954,163,1152,205"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1150,156,1310,113,1311,118,1151,161"/>
+<area shape="poly" id="edge12_Node000009_Node000003" title=" " alt="" coords="1004,157,968,138,929,123,873,108,827,103,781,101,723,93,675,84,676,79,723,88,782,95,828,98,874,103,931,117,970,133,1007,153"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="509,105,638,132"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="653,119,783,129,930,148,981,160,980,165,930,153,783,134,652,124"/>
+<area shape="rect" id="Node000005" href="$class_strategy_manager___n_s_1_1_robo_cup_task_deplacements_parameters_modifiers.html" title=" " alt="" coords="448,156,699,199"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="714,180,723,180,954,182,954,187,723,185,714,185"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="88,231,168,257"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="182,233,447,194,447,199,183,239"/>
+<area shape="rect" id="Node000007" href="$class_strategy_manager___n_s_1_1_robo_cup_task_avoidance_parameters_modifiers.html" title=" " alt="" coords="460,223,687,265"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="183,241,459,241,459,247,183,247"/>
+<area shape="rect" id="Node000008" href="$class_strategy_manager___n_s_1_1_robo_cup_task_affichage_lidar.html" title=" " alt="" coords="472,289,675,332"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="183,249,472,293,471,298,182,255"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="701,230,930,204,953,200,954,206,930,209,702,236"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="689,299,807,282,869,268,929,250,977,228,1019,203,1022,208,980,233,931,254,870,273,808,287,690,305"/>
+<area shape="poly" id="edge10_Node000003_Node000009" title=" " alt="" coords="689,41,747,38,809,41,871,50,931,68,965,87,995,112,1039,161,1035,164,991,115,962,91,929,73,870,55,808,46,747,44,690,46"/>
+<area shape="rect" id="Node000010" href="$class_strategy_manager___n_s_1_1_team_positioning.html" title=" " alt="" coords="5,400,251,427"/>
+<area shape="poly" id="edge13_Node000003_Node000010" title=" " alt="" coords="265,406,505,393,617,384,699,373,819,350,869,332,929,300,960,278,989,253,1033,204,1037,208,992,256,963,282,931,305,871,337,820,355,699,379,618,389,505,398,265,411"/>
+<area shape="rect" id="Node000011" href="$class_strategy_manager___n_s_1_1_action_q_value.html" title=" " alt="" coords="480,436,667,479"/>
+<area shape="poly" id="edge15_Node000011_Node000010" title=" " alt="" coords="265,424,480,445,479,451,265,429"/>
+<area shape="poly" id="edge14_Node000003_Node000011" title=" " alt="" coords="681,470,742,471,807,465,870,449,900,437,928,420,955,398,977,372,1012,312,1034,252,1045,205,1051,206,1039,253,1016,314,982,375,959,402,932,425,903,442,872,454,807,471,742,476,681,475"/>
+</map>

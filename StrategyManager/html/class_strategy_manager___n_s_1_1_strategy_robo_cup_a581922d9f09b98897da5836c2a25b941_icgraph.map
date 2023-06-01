@@ -1,0 +1,9 @@
+<map id="StrategyManager_NS.StrategyRoboCup.IsInPositioningBallForTeam" name="StrategyManager_NS.StrategyRoboCup.IsInPositioningBallForTeam">
+<area shape="rect" id="Node000001" title=" " alt="" coords="575,39,810,81"/>
+<area shape="rect" id="Node000002" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#ae73caae532d77211c4f8b4a76f7a53d2" title=" " alt="" coords="294,5,504,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="560,48,503,41,504,36,561,42"/>
+<area shape="rect" id="Node000003" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#a47c24175826b25894fa9cca96f597810" title=" " alt="" coords="271,72,527,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="561,78,528,81,527,76,560,72"/>
+<area shape="rect" id="Node000004" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#aee26fdec5fb870e9bda7e159f3305958" title=" " alt="" coords="5,72,223,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="256,96,223,96,223,91,256,91"/>
+</map>

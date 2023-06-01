@@ -1,0 +1,9 @@
+<map id="StrategyManager_NS.TeamPositioning.AddPlayerPosition" name="StrategyManager_NS.TeamPositioning.AddPlayerPosition">
+<area shape="rect" id="Node000001" title="Ajout d&#39;une position de référence pour le joueur playerId Cette position est valable lorsque le jeu s..." alt="" coords="599,39,848,81"/>
+<area shape="rect" id="Node000002" href="$class_strategy_manager___n_s_1_1_toolbox_strategy_robo_cup.html#afbeb097b8a8de5a0ee1aa4415e0644e9" title=" " alt="" coords="307,39,551,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="584,63,551,63,551,57,584,57"/>
+<area shape="rect" id="Node000003" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#ac057de18f2f05443845baee10b29596d" title=" " alt="" coords="33,5,231,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="292,47,231,40,232,35,292,42"/>
+<area shape="rect" id="Node000004" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#aff23304a8b725919ed16d090d4fbcaf9" title=" " alt="" coords="5,72,259,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="292,78,259,82,259,76,292,73"/>
+</map>

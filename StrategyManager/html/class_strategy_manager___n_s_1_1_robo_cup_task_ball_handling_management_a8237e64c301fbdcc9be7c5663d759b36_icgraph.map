@@ -1,0 +1,5 @@
+<map id="StrategyManager_NS.RoboCupTaskBallHandlingManagement.GetPlayerHavingBall" name="StrategyManager_NS.RoboCupTaskBallHandlingManagement.GetPlayerHavingBall">
+<area shape="rect" id="Node000001" title=" " alt="" coords="271,5,492,64"/>
+<area shape="rect" id="Node000002" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#aee26fdec5fb870e9bda7e159f3305958" title=" " alt="" coords="5,13,223,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,37,223,37,223,32,255,32"/>
+</map>
