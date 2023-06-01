@@ -1,0 +1,7 @@
+<map id="StrategyManager_NS.StrategyRoboCup.TeamConstraintMatchSituation" name="StrategyManager_NS.StrategyRoboCup.TeamConstraintMatchSituation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,262,81"/>
+<area shape="rect" id="Node000002" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#ac5ee6b49ac1ccacfc28bb19e6025b5a1" title=" " alt="" coords="310,5,570,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,43,295,40,295,45,263,49"/>
+<area shape="rect" id="Node000003" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#a581922d9f09b98897da5836c2a25b941" title=" " alt="" coords="322,72,558,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,71,308,76,307,82,262,77"/>
+</map>

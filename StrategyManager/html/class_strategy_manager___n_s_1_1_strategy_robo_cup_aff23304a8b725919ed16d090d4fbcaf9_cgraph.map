@@ -1,0 +1,7 @@
+<map id="StrategyManager_NS.StrategyRoboCup.OnTeamStrategyMsgReceived" name="StrategyManager_NS.StrategyRoboCup.OnTeamStrategyMsgReceived">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,259,48"/>
+<area shape="rect" id="Node000002" href="$class_strategy_manager___n_s_1_1_toolbox_strategy_robo_cup.html#afbeb097b8a8de5a0ee1aa4415e0644e9" title=" " alt="" coords="307,5,551,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,24,292,24,292,29,259,29"/>
+<area shape="rect" id="Node000003" href="$class_strategy_manager___n_s_1_1_team_positioning.html#acacc64f2fc1fca2b8eeffd7fbb75a0c7" title="Ajout d&#39;une position de référence pour le joueur playerId Cette position est valable lorsque le jeu s..." alt="" coords="599,5,848,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="552,24,584,24,584,29,552,29"/>
+</map>

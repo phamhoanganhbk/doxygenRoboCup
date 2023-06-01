@@ -1,0 +1,14 @@
+<map id="StrategyManager_NS.StrategyRoboCup.OnShootRequest" name="StrategyManager_NS.StrategyRoboCup.OnShootRequest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="550,105,748,148"/>
+<area shape="rect" id="Node000002" href="$class_strategy_manager___n_s_1_1_robo_cup_task_ball_handling_management.html#a3f5323476e002cff9f52f1eef61b6687" title=" " alt="" coords="262,5,502,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="590,101,501,62,467,51,468,46,503,58,593,96"/>
+<area shape="rect" id="Node000003" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#acc170c619c7e05ffcb17c101df2cced7" title=" " alt="" coords="275,72,489,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="535,115,489,109,490,104,536,110"/>
+<area shape="rect" id="Node000004" href="$class_strategy_manager___n_s_1_1_robo_cup_task_ball_handling_management.html#ae6a7ba6ad03793747377723af8886ba0" title=" " alt="" coords="267,139,497,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="536,143,498,148,497,143,535,138"/>
+<area shape="rect" id="Node000006" href="$class_strategy_manager___n_s_1_1_robo_cup_task_ball_handling_management.html#a2cf289ab32bb6fa99d0ec59f3104aa23" title=" " alt="" coords="265,205,499,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="593,157,503,196,468,207,467,202,501,191,590,152"/>
+<area shape="rect" id="Node000005" href="$class_strategy_manager___n_s_1_1_strategy_robo_cup.html#ae82578fdd75b051fccf4e24915ce9bab" title=" " alt="" coords="5,172,214,215"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="252,179,215,183,214,178,252,173"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="249,213,214,209,214,203,250,208"/>
+</map>

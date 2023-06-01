@@ -1,0 +1,7 @@
+<map id="StrategyManager_NS.RobocupGameManagement.TaskStateMachine" name="StrategyManager_NS.RobocupGameManagement.TaskStateMachine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,249,97"/>
+<area shape="rect" id="Node000002" href="$class_strategy_manager___n_s_1_1_robo_cup_task_affichage_lidar.html#abb16ec622ab92f998eba03d240198955" title=" " alt="" coords="297,5,512,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,55,282,50,282,56,250,60"/>
+<area shape="rect" id="Node000003" href="$class_strategy_manager___n_s_1_1_robo_cup_task_affichage_lidar.html#ae6f393ce118afbddc93a1c28d43e0f5f" title=" " alt="" coords="297,88,512,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,92,282,96,282,102,249,97"/>
+</map>

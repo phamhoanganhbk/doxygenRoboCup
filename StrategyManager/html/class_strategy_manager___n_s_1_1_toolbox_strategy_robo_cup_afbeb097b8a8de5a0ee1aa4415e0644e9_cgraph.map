@@ -1,0 +1,5 @@
+<map id="StrategyManager_NS.ToolboxStrategyRoboCup.GetTeamPositioning" name="StrategyManager_NS.ToolboxStrategyRoboCup.GetTeamPositioning">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,250,48"/>
+<area shape="rect" id="Node000002" href="$class_strategy_manager___n_s_1_1_team_positioning.html#acacc64f2fc1fca2b8eeffd7fbb75a0c7" title="Ajout d&#39;une position de référence pour le joueur playerId Cette position est valable lorsque le jeu s..." alt="" coords="298,5,547,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,24,283,24,283,29,250,29"/>
+</map>
