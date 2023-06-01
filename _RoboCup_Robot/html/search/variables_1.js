@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['herkulexmanager_0',['herkulexManager',['../class_robot_1_1_robot___robo_cup.html#a743f0cd038e24f30ccc35cdecf358898',1,'Robot::Robot_RoboCup']]]
+  ['defaultinstance_0',['defaultInstance',['../class_robot_interface_1_1_properties_1_1_settings.html#aeda0685df16e901b1803234e92fc94bc',1,'RobotInterface::Properties::Settings']]]
 ];

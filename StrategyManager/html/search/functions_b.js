@@ -17,5 +17,7 @@ var searchData=
   ['startaffichagepermanentligne2_14',['StartAffichagePermanentLigne2',['../class_strategy_manager___n_s_1_1_robo_cup_task_affichage_lidar.html#ae6f393ce118afbddc93a1c28d43e0f5f',1,'StrategyManager_NS::RoboCupTaskAffichageLidar']]],
   ['startaffichagetempoligne1_15',['StartAffichageTempoLigne1',['../class_strategy_manager___n_s_1_1_robo_cup_task_affichage_lidar.html#a16d881569a8cb1c56be1e5beccd6ed63',1,'StrategyManager_NS::RoboCupTaskAffichageLidar']]],
   ['startaffichagetempoligne2_16',['StartAffichageTempoLigne2',['../class_strategy_manager___n_s_1_1_robo_cup_task_affichage_lidar.html#a789f5e63d580bcf60e5e57383924814a',1,'StrategyManager_NS::RoboCupTaskAffichageLidar']]],
-  ['strategyrobocup_17',['StrategyRoboCup',['../class_strategy_manager___n_s_1_1_strategy_robo_cup.html#a8c9e786f06964f45a52ee250f3383e29',1,'StrategyManager_NS::StrategyRoboCup']]]
+  ['startavoidancereduction_17',['StartAvoidanceReduction',['../class_strategy_manager___n_s_1_1_robo_cup_task_avoidance_parameters_modifiers.html#ab1c9c257c3d98638e7570804c5ae194f',1,'StrategyManager_NS::RoboCupTaskAvoidanceParametersModifiers']]],
+  ['startspeedboost_18',['StartSpeedBoost',['../class_strategy_manager___n_s_1_1_robo_cup_task_deplacements_parameters_modifiers.html#a397979d9c872cd6f55f13d7f235cc299',1,'StrategyManager_NS::RoboCupTaskDeplacementsParametersModifiers']]],
+  ['strategyrobocup_19',['StrategyRoboCup',['../class_strategy_manager___n_s_1_1_strategy_robo_cup.html#a8c9e786f06964f45a52ee250f3383e29',1,'StrategyManager_NS::StrategyRoboCup']]]
 ];

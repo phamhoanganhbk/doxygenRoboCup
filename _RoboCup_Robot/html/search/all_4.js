@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['lidar_5fomd60m_5ftcp_0',['lidar_OMD60M_TCP',['../class_robot_1_1_robot___robo_cup.html#a945264b3f60f3aec75728ab72f38b06e',1,'Robot::Robot_RoboCup']]]
+  ['default_0',['Default',['../class_robot_interface_1_1_properties_1_1_settings.html#a394ee9d6c2c6f9cb106b85b91ba445d5',1,'RobotInterface::Properties::Settings']]],
+  ['defaultinstance_1',['defaultInstance',['../class_robot_interface_1_1_properties_1_1_settings.html#aeda0685df16e901b1803234e92fc94bc',1,'RobotInterface::Properties::Settings']]]
 ];

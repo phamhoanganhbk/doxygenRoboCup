@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['ballcontrol_0',['ballControl',['../class_robot_1_1_robot___robo_cup.html#a255f09a18e94aadfb43fd2d5be8db61d',1,'Robot::Robot_RoboCup']]],
-  ['ballkickingsystem_1',['ballKickingSystem',['../class_robot_1_1_robot___robo_cup.html#ab0e58d06036b53a39faea60cde4884ba',1,'Robot::Robot_RoboCup']]]
+  ['_2enetframework_2cversion_3dv4_2e8_2eassemblyattributes_2ecs_0',['.NETFramework,Version=v4.8.AssemblyAttributes.cs',['../_debug_2_8_n_e_t_framework_00_version_0av4_88_8_assembly_attributes_8cs.html',1,'(Global Namespace)'],['../x64_2_debug_2_8_n_e_t_framework_00_version_0av4_88_8_assembly_attributes_8cs.html',1,'(Global Namespace)']]]
 ];
